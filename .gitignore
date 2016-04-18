@@ -1,0 +1,18 @@
+# exclude below files
+.classpath
+.project
+.settings/
+/target/
+/test-output/
+*.doc
+*.docx
+*.ppt
+/bin
+*.log
+*.xlsx
+/src/screenshots/
+/screenshots/
+/src/testdata/*.exe
+/src/testdata/~*.*
+.*.db
+.*.keep
